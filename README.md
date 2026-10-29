@@ -1,4 +1,4 @@
-ity Weather Reporter
+City Weather Reporter
 
 Project Purpose
 
