@@ -146,8 +146,3 @@ city_data. csv - This file is created automatically when your program runs succe
 
 Security
 
-Do not ever commit an api key to Github. This project collects the key in the
-
-So instead of writing down the key into the OPENWEATHER_API_KEY environment variable
-
-Python source code.
